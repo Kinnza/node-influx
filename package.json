@@ -1,5 +1,5 @@
 {
-  "name": "influx",
+  "name": "influx-f",
   "version": "5.0.8",
   "description": "InfluxDB Client",
   "main": "./lib/src/index.js",
