@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-influx/node-influx.git"
+    "url": "git://github.com/kinnza/node-influx.git"
   },
   "keywords": [
     "influx",
